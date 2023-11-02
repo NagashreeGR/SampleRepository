@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 98FA-EFFA
+
+ Directory of C:\Users\harsh\OneDrive\Desktop\MyProject
+
+02-11-2023  10:06    <DIR>          .
+02-11-2023  10:00    <DIR>          ..
+02-11-2023  10:06                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  897,406,730,240 bytes free
